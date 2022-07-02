@@ -4,7 +4,7 @@
 Python je interpretovaný, interaktívny, open-source programovací jazyk. Python beží na mnohých variantoch Unixu, na Macu a Windowse (súčasťou kurzu bude inštalácia na vašom systéme). Pre absolvovanie kurzu je potrebné mať k dispozícií vlastný notebook (s ľubovoľným operačným systémom podporujúcim Python).
 
 ⚒️ Používané nástroje: 
-- [Anaconda Platform]([url](https://www.anaconda.com/products/distribution))
+- [Anaconda Platform]([[url](https://www.anaconda.com/products/distribution)]())
 - [Python 3]([url](https://www.python.org/downloads/))
 - [Spyder]([url](https://www.spyder-ide.org/))
 
