@@ -8,5 +8,5 @@ https://itkurzy.sav.sk/kurzy
 1. Základy programovacieho jazyku Python
 2. Python - Objektové programovanie
 3. Spracovanie a Vizualizácia Dát v Pythone
-4. Python – Neurónové siete s knižnicou TensorFlow
+4. Python - Neurónové siete s knižnicou TensorFlow
 5. Štatistika v R
