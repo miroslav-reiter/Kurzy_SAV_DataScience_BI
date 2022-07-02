@@ -1,0 +1,3 @@
+2022-04-07 12:05:53.301837 -- Dnes je pekny den
+2022-04-07 12:06:29.423084 -- Dnes je pekny den
+2022-04-07 12:09:36.318523 -- Dnes je pekny den
