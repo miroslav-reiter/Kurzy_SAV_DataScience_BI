@@ -4,7 +4,7 @@
 ## ⌚ Prehľad kurzov a termínov
 https://itkurzy.sav.sk/kurzy
 
-## Zoznam kurzov
+### Zoznam kurzov
 1. Základy programovacieho jazyku Python
 2. Python - Objektové programovanie
 3. Spracovanie a Vizualizácia Dát v Pythone
