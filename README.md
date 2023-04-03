@@ -11,6 +11,9 @@
 - [Python 3](https://www.python.org/downloads/)
 - [Spyder](https://www.spyder-ide.org/)
 
+### [Python Tutor](https://pythontutor.com/)
+![22 03 2023 16_45_58-Python Tutor code visualizer_ Visualize code in Python, JavaScript, C, C++, and ](https://user-images.githubusercontent.com/24510943/229387393-5313d85f-8972-4679-af9b-105d6c13de5c.png)
+
 ## ⌚ Prehľad kurzov a termínov
 https://itkurzy.sav.sk/kurzy
 
