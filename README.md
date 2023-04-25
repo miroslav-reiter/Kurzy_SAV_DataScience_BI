@@ -5,13 +5,13 @@
 
 **R** je **programovací jazyk** a **softvérové prostredie** pre **štatistickú analýzu a vizualizáciu**. R je **voľne dostupný** pod GNU licenciou a existujú verzie pre mnohé operačné systémy ako Linux, Windows a Mac.
 
-⚒️ Používané nástroje: 
-- [Jetbrains Datalore](https://datalore.jetbrains.com/)
-- [Anaconda Platform](https://www.anaconda.com/products/distribution)
-- [Python 3](https://www.python.org/downloads/)
-- [Spyder](https://www.spyder-ide.org/)
+## ⚒️ Používané nástroje 
+1. [Jetbrains Datalore](https://datalore.jetbrains.com/)
+1. [Anaconda Platform](https://www.anaconda.com/products/distribution)
+1. [Python 3](https://www.python.org/downloads/)
+1. [Spyder](https://www.spyder-ide.org/)
+1. [Python Tutor](https://pythontutor.com/)
 
-### [Python Tutor](https://pythontutor.com/)
 ![22 03 2023 16_45_58-Python Tutor code visualizer_ Visualize code in Python, JavaScript, C, C++, and ](https://user-images.githubusercontent.com/24510943/229387393-5313d85f-8972-4679-af9b-105d6c13de5c.png)
 
 ## ⌚ Prehľad kurzov a termínov
@@ -23,3 +23,5 @@ https://itkurzy.sav.sk/kurzy
 3. Spracovanie a Vizualizácia Dát v Pythone
 4. Python - Neurónové siete s knižnicou TensorFlow
 5. Štatistika v R
+6. Python a spracovanie dát z databázy
+7. Python - automatizácia úloh
