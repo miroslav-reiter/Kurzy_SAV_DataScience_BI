@@ -25,3 +25,6 @@ https://itkurzy.sav.sk/kurzy
 5. Štatistika v R
 6. Python a spracovanie dát z databázy
 7. Python - automatizácia úloh
+
+## 📈 YouTube video záznamy z kurzov a prednášok Playlist Python
+[YouTube kanál IT Academy](https://www.youtube.com/watch?v=iu3f9isk6mk&list=PLIu_ZdHo7Pk8CpQ76gT6q0p56WxQF_Emw)
