@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+  <region id='Europe'>
+   <country id='de' name='Germany' pop='82000000'/>
+   <country id='fr' name='France'  pop='60000000'/>
+  </region>
+  <region id='Asia'>
+    <country id='cn' name='China' pop='1300000000'/>
+  </region>
+</world>
