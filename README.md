@@ -23,11 +23,14 @@ https://itkurzy.sav.sk/kurzy
 3. Python - Objektové programovanie II
 4. Spracovanie a Vizualizácia Dát v Pythone
 5. Python - Neurónové siete s knižnicou TensorFlow
-6. Databázy a Jazyk SQL
-7. Python a Spracovanie Dát z Databázy
-8. Štatistika v R
-9. Štatistika v R - Spracovanie a vizualizácia dát
-10. Python - Automatizácia Úloh
+6. Databázy a Jazyk SQL 1
+7. Databázy a Jazyk SQL 2
+8. Python a Spracovanie Dát z Databázy
+9. Štatistika v R
+10. Štatistika v R - Spracovanie a vizualizácia dát
+11. Python - Automatizácia Úloh
+12. Jemný Úvod do AI
+13. Datamining a Parsovanie v Pythone
 
 ## 📈 YouTube video záznamy z kurzov Playlist Python
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=iu3f9isk6mk&list=PLIu_ZdHo7Pk8CpQ76gT6q0p56WxQF_Emw)
