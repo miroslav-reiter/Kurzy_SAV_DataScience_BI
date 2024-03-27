@@ -1,5 +1,5 @@
 # Kurzy SAV DataScience, Python, R, BI
-🐍 Materiály, Zdrojové Kódy, Prezentácie ku kurzom SAV Python, OOP, R, Analytika
+🐍 Materiály, Zdrojové Kódy a Projekty, Prezentácie ku kurzom SAV DataScience, Python, OOP, R, BI, Analytika
 
 **Python** je **interpretovaný**, **interaktívny**, **open-source programovací jazyk**. Python beží na mnohých variantoch Unixu, na Macu a Windowse (súčasťou kurzu bude inštalácia na vašom systéme). Pre absolvovanie kurzu je potrebné mať k dispozícií vlastný notebook (s ľubovoľným operačným systémom podporujúcim Python).
 
