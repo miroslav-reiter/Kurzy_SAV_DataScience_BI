@@ -1,4 +1,4 @@
-# Kurzy SAV DataScience, Python, R, BI, AI, ChatGPT
+# Kurzy SAV DataScience, Python, R, Julia, BI, AI/ML, ChatGPT
 🐍 Materiály, Zdrojové Kódy a Projekty, Prezentácie ku kurzom SAV DataScience, Python, OOP, R, BI, Analytika
 
 **Python** je **interpretovaný**, **interaktívny**, **open-source programovací jazyk**. Python beží na mnohých variantoch Unixu, na Macu a Windowse (súčasťou kurzu bude inštalácia na vašom systéme). Pre absolvovanie kurzu je potrebné mať k dispozícií vlastný notebook (s ľubovoľným operačným systémom podporujúcim Python).
@@ -35,8 +35,8 @@ https://itkurzy.sav.sk/kurzy
 13. Datamining a Parsovanie v Pythone
 14. Strojové učenie (Machine Learning ML) v Pythone (scikit-learn)
 15. Programovací jazyk Julia 1 (začiatočník)
-16. Interaktívne vizualizácie v Pythone 1
-17. Interaktívne vizualizácie v Pythone 2
+16. Interaktívne vizualizácie v Pythone 1 - Plotly a Bokeh
+17. Interaktívne vizualizácie v Pythone 2 - Streamlit
 18. Vysokovýkonné počítanie v Pythone
 19. GIT a GitHub 1 začiatočník
 20. Databázy a PostgreSQL 1 (začiatočník)
