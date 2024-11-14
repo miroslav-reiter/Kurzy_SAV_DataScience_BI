@@ -37,7 +37,7 @@ https://itkurzy.sav.sk/kurzy
 15. Programovací jazyk Julia 1 (začiatočník)
 16. Interaktívne vizualizácie v Pythone 1 - Plotly a Bokeh
 17. Interaktívne vizualizácie v Pythone 2 - Streamlit
-18. Vysokovýkonné počítanie v Pythone
+18. Vysokovýkonné počítanie v Pythone HPC a Big Data
 19. GIT a GitHub 1 začiatočník
 20. Databázy a PostgreSQL 1 (začiatočník)
 21. Databázy a PostgreSQL 2 (mierne pokročilý)
